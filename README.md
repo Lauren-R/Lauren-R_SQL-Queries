@@ -5,3 +5,4 @@ The objective of this project was to use SQL to analyze data for a movie rental 
 
 I used the following data sets: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip  
 
+My final presentation and analysis: https://public.tableau.com/app/profile/lauren.rutledge/viz/Exercise3_10_LaurenRutledge_06_07_2021/RockbusterRentalAnalysis
